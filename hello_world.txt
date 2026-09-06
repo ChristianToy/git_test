@@ -1,0 +1,1 @@
+started a full revision since i last picked this up 5 months ago. slwoly almost back to where i was. learnt this all on ubuntu now instead of just git bash
